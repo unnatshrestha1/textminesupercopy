@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textminesupercopy/static/css/main.76aec624.css",
+    "main.js": "/textminesupercopy/static/js/main.1f478632.js",
+    "static/js/592.070fb9d8.chunk.js": "/textminesupercopy/static/js/592.070fb9d8.chunk.js",
+    "index.html": "/textminesupercopy/index.html",
+    "main.76aec624.css.map": "/textminesupercopy/static/css/main.76aec624.css.map",
+    "main.1f478632.js.map": "/textminesupercopy/static/js/main.1f478632.js.map",
+    "592.070fb9d8.chunk.js.map": "/textminesupercopy/static/js/592.070fb9d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aec624.css",
+    "static/js/main.1f478632.js"
+  ]
+}
